@@ -132,7 +132,8 @@ The project was managed using Jira Scrum Boards, Epics, User Stories, Sprint Pla
 - scrum-board.png
 - active-sprint.png
 - epics.png
-- sprint-summary.png
+- Burndown_1.png
+- Burndown_2.png
 
 README.md
 
